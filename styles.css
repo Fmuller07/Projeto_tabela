@@ -1,14 +1,11 @@
 /* Resetando margens e padding */
-
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-
 /* Estilo da página */
-
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
@@ -18,9 +15,7 @@ body {
     height: 100vh;
 }
 
-
 /* Container da tabela */
-
 .container {
     background-color: #fff;
     padding: 20px;
@@ -35,9 +30,7 @@ h1 {
     color: #333;
 }
 
-
 /* Estilo da tabela */
-
 table {
     width: 100%;
     border-collapse: collapse;
@@ -64,9 +57,7 @@ table tr:hover {
     background-color: #ddd;
 }
 
-
 /* Estilo do botão */
-
 button {
     background-color: #4CAF50;
     color: white;
